@@ -1,0 +1,7 @@
+{
+  "name": "Tarteel Quran ",
+  "description": "A comprehensive, visually rich clone of the Tarteel Quran application, focusing on the user interface and experience for reading, searching, and tracking Quran recitation progress. Built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
